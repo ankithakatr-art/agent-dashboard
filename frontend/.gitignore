@@ -24,6 +24,7 @@ dist-ssr
 *.sw?
 
 
-.env
+/frontend/.env
 /frontend/.pnpm-lock.yaml
 /server/.pnpm-lock.yaml
+/server/.env
